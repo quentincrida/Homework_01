@@ -1,2 +1,3 @@
 some text "What is your name?"
 What is the time in Japan?
+Ask someone with a Japanese watch?
