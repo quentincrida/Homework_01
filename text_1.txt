@@ -1,0 +1,2 @@
+some text "What is your name?"
+What is the time in Japan?
